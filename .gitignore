@@ -1,0 +1,6 @@
+
+
+# Ignore all files except inventory_analytics_app.py
+*
+!inventory_analytics_app.py
+!.gitignore
